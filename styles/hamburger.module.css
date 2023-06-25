@@ -1,0 +1,49 @@
+.hamburger {
+    width: 50px;
+    height: 50px;
+}
+
+.hamburger > div {
+    height: 10px;
+    background-color: black;
+    transition: .2s ease;
+}
+
+.hamburger > div:nth-child(n + 2) {
+    margin-top: 10px;
+}
+
+.hamburger.opened > div:nth-child(1) {
+    transform: translate(0, 20px) rotate(45deg) ;
+    transition: .2s ease;
+}
+
+.hamburger.opened > div:nth-child(2) {
+    opacity: 0;
+    transition: .2s ease;
+}
+
+.hamburger.opened > div:nth-child(3) {
+    transform: translate(0, -20px) rotate(-45deg) ;
+    transition: .2s ease;
+}
+
+.navigationMenu {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    transition: .5s ease;
+}
+
+.navigationMenu.opened {
+    height: 200px;
+    transition: .5s ease;
+}
+
+.navigationMenu > a {
+    font-size: 3em;
+    margin-right: 20px;
+}

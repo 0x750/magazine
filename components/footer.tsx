@@ -1,5 +1,6 @@
 import Container from './container'
 import { EXAMPLE_PATH } from '../lib/constants'
+import { Instagram } from 'react-feather'
 
 const Footer = () => {
   return (
@@ -14,7 +15,7 @@ const Footer = () => {
 
           </div>
           <div>
-            <a href="https://instagram.com/ephemeremagazine2023">Instagram</a>
+            <a href="https://instagram.com/ephemeremagazine2023"><Instagram /></a>
           </div>
         </div>
       </Container>
