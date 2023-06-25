@@ -10,9 +10,9 @@ ogImage:
   url: '/assets/blog/shooting-3d/cover-3d.jpg'
 ---
 
-A travers ce shooting, j’ai voulu exprimer une nouvelle manière d’appréhender la mode. En rapport avec mon reportage du dressing virtuel, ces photos ont été entièrement réalisé en post-production.
+A travers ce shooting, une nouvelle manière d'apréhender la mode. En rapport avec la technologie, ces photos ont été entièrement réalisées en post-production.
 
-J’ai pris ma modèle en photo en sous-vêtements puis je l’ai habillé avec des pièces de déflé, directement sur Photoshop. Cela m’as permis une liberté totale sur les looks. J’ai pris des vêtements de la dernière Fashion Week de diférentes marques, et j’ai crée des nouvelles tenues.
+La modèle a été photographiée  en sous-vêtements puis a été habillée avec des pièces de déflé, directement sur Photoshop. Cela m’a permis une liberté totale sur les looks. J’ai pris des vêtements de la dernière Fashion Week de diférentes marques, et j’ai créé des nouvelles tenues.
 
 ![](/assets/blog/shooting-3d/p1.jpg)
 > Look 1

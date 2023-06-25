@@ -2,6 +2,7 @@ import Head from "next/head";
 import Layout from "../components/layout";
 import Container from "../components/container";
 import Header from "../components/header";
+import PostTitle from "../components/post-title";
 
 export default function About() {
     return (
@@ -12,7 +13,9 @@ export default function About() {
                 </Head>
                 <Container>
                     <Header />
-                    <div className="m">
+                    <div className="max-w-2xl mx-auto">
+                        <PostTitle>A propos</PostTitle>
+
                         <p>«Ephémère» (FMR) parce que la mode est éphémère mais que le beau est éternel ! Ephémère est un magazine dans l’air du temps, qui joint la mode et les sujets de société, qui fait rêver et voyager tout en vous informant.</p>
                         <br />
                         <p>Magazine à la fois trendy et engagé, ce numéro combine les looks à la mode et un point de vue écologique ; la tendance verte fait le lien entre ces deux piliers.</p>
