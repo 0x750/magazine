@@ -18,8 +18,8 @@ const Intro = () => {
           <h1 className="text-5xl font-bold leading-tight tracking-tighter md:text-8xl md:pr-8">
             EPHEMERE
           </h1>
-          <h4 className="text-lg text-center">
-            La mode est éphémère, le beau est éternel.
+          <h4 className="text-lg">
+            La mode est éphémère,<br />le beau est éternel.
           </h4>
         </div>
         <HamburgerMenu open={hamburgerOpened} toggleOpen={toggleOpen} />
