@@ -39,11 +39,11 @@
 }
 
 .navigationMenu.opened {
-    height: 200px;
+    height: 500px;
     transition: .5s ease;
 }
 
-.navigationMenu > a {
+.navigationMenu a {
     font-size: 2em;
     margin-right: 20px;
 }

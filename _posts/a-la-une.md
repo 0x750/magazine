@@ -31,6 +31,8 @@ Il reste encore partout du chemin à parcourir pour une égalité complète et u
 
 A son échelle la mode et l’image que les femmes ont d’elles-mêmes et donnent d’elles-mêmes y contribue. Alors ne lâchons rien ! 
 
+![](/assets/blog/a-la-une/une1.jpg)
+
 ## L’écologie pour que le monde existe encore demain
 
 Les jeunes générations de femmes et d’hommes se sentent très concernées par les problématiques actuelles de notre société et se mobilisent afin d’y trouver des solutions. 
@@ -46,6 +48,8 @@ Dans ce numéro , une nouvelle manière de s’habiller, en privilégiant les ma
 Pour les passionnés de mode que sont nos lecteurs, il est difficile d’admettre que la mode est le deuxième secteur le plus polluant. Et comme les jeunes gens qui s’affirment au travers de leur image ne vont pas s’arrêter de s’habiller, il faut trouver des alternatives à la surconsommation, drastiquement diminuer, voire arrêter la consommation de fast-fashion qui est un fléau pour l’environnement. 
 
 Le vintage est au cœur de la mode que nous privilégions, comme le recyclage des matériaux utilisés pour la création de nouveaux vêtements. 
+
+![](/assets/blog/a-la-une/une2.jpg)
 
 ## Les nouvelles technologies au cœur de notre société et au service d’une mode durable 
 
@@ -73,8 +77,6 @@ Les nouvelles technologies contribuent aussi énormément au développement d’
 • Les avancées dans les technologies de l’information ont révolutionné la communication, l’information et la connectivité.
 
 • Les technologies financières, également appelés fintech, avec les paiements mobiles, la blockchain, l’analyse de données et les robot-conseillers transforment la manière dont les transactions financières sont effectuées et gérées. 
-
-
 
 
 Et pour revenir à la mode, éternel recommencement d’une société qui évolue et qui est en plein bouleversement, on est à la mode pour se distinguer des autres, pour signaler notre appartenance à un groupe social ou se donner confiance en soi. En ce sens elle est étroitement connectée aux enjeux de notre société. Elle évolue constamment avec son son époque ; elle est Ephémère et éternelle.

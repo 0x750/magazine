@@ -18,6 +18,8 @@ Immersion dans la ville jardin aux mille facettes. Récit d’une jeune étudian
 
 Elle est partie du mois d’août 2022 jusqu’au mois de février 2023, dans le cadre de ses études de MBA à l’école INSEAD. Son impression de la vie là-bas fût très positive.
 
+![](/assets/blog/singapour/singapour2.JPG)
+
 > C’est un climat super international et je rencontre des gens avec des histoires très variées.
 
 &mdash; Marie
@@ -31,6 +33,8 @@ Elle appuie bien sur le côté ultra international de la ville, qui recueille to
 Marie nous parle également de la mode là-bas, exprimant que la mode est en même temps intéressante et assez classique, dû part « Il y a une grosse influence asiatique très différente de ce à quoi je suis habituée, il y a aussi beaucoup d’argent donc énormement de marques de luxe, mais les tenues restent très professionnelles tout de même, car c’est une ville connue pour sa dynamique de travail. ».
 
 En parlant de Paris et en comparant les deux villes, notre jeune étudiante a remarqué quelques différences « A Singapour, tout est nouveau, il n’y a pas d’architecture ou de cuisine traditionnelle. Il y a aussi des quartiers très orientées par nationalités comme Little India ou Holland Village, où il y a toutes les familles expatriées. Il y a aussi beaucoup plus d’activités en extérieur, lié à la présence de la nature dans la ville. Vu que Singapour est au milieu de l’Asie, c’est très facile de voyager dans des pays très différents les uns des autres. ».
+
+![](/assets/blog/singapour/singapour1.JPG)
 
 > Singapour est très internationale et dynamique !
 
